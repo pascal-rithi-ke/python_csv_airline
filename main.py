@@ -1,3 +1,4 @@
-from function import DepartDestination
+from function import DepartDestination, TotalAirport
 
+TotalAirport()
 DepartDestination()
